@@ -45,7 +45,7 @@ After forking and cloning the project, install the following dependencies:
 
 - Within `/server` 
 ```bash 
-npm install npm install express ws cors
+npm install express ws cors
 npm install --save-dev nodemon
 ```
 
@@ -56,4 +56,8 @@ go get github.com/gorilla/websocket
 ```
 
 ### Contact 
-Reach out to me via Discord, ID: Washikiballa-San
+Reach out to me via Discord!
+ID: Washikiballa-San
+
+### Acknowledgements 
+
